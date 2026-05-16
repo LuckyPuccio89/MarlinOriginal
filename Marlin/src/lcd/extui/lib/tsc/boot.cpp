@@ -1,7 +1,7 @@
 #include "TSC_Menu.h"
 #include "boot.h"
 #include "../../../../core/macros.h"
-#include "HAL/stm32f4_fsmc.h"
+#include "Hal/stm32f4_fsmc.h"
 
 const GUI_RECT iconUpdateRect = {(LCD_WIDTH_PIXEL - ICON_WIDTH)/2,              (LCD_HEIGHT_PIXEL - ICON_HEIGHT)/2, 
                                  (LCD_WIDTH_PIXEL - ICON_WIDTH)/2 + ICON_WIDTH, (LCD_HEIGHT_PIXEL - ICON_HEIGHT)/2 + ICON_HEIGHT};
