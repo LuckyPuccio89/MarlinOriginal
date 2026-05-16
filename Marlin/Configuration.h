@@ -26,7 +26,7 @@
 #define R4_PRO    // R4_pro:pro
 
 // 使用了st芯片
-// #define ST32_SHIP
+#define ST32_SHIP
 // #define USE_GD32
 
 #define HAS_UDISK
