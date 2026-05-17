@@ -600,7 +600,7 @@
 #elif MB(BLACK_STM32F407VE)
   #include "stm32f4/pins_BLACK_STM32F407VE.h"   // STM32F4                                env:STM32F407VE_black
 #elif MB(LANGGO407)
-  #include "stm32f4/pins_langgo407.h"           // STM32F4                                env:langgo407
+  #include "stm32f4/pins_langgo407.h"           // STM32F4                                env:langgo407ve_st
 #elif MB(HP407VE)
   #include "stm32f4/pins_hp407ve.h"           // STM32F4                                env:hp407ve
 #elif MB(STEVAL_3DP001V1)
